@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ro.mirceanistor.portofeth",
+    "sha256_cert_fingerprints":
+    ["BE:4F:BC:44:58:BE:81:3A:A5:54:B0:89:2C:2A:13:D3:75:69:3B:3C:4D:75:C1:D9:2E:36:41:91:8A:A4:28:E0"]
+  }
+}]
